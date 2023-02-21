@@ -18,9 +18,6 @@ Here are some of the repositories in my GitHub account:
 
   : This repository contains a Python project called watch_next, which recommends movies based on their similarity to a given movie description. The project uses the spacy library to perform advanced natural language processing and generate a list of movies with descriptions that are most similar to the input.
 
-- byb_project: https://github.com/danlinW527/byb_project
-
-  : A career tracker I created during my Bootcamp
 
 - finalCapstone: https://github.com/danlinW527/finalCapstone
 
