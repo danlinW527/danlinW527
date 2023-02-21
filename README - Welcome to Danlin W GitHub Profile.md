@@ -14,17 +14,17 @@ Here are some of the repositories in my GitHub account:
 
 
 
-- [Hyperion]: https://github.com/danlinW527/Hyperion
+- Hyperion[Hyperion]: https://github.com/danlinW527/Hyperion
 
   : This repository contains a Python project called watch_next, which recommends movies based on their similarity to a given movie description. The project uses the spacy library to perform advanced natural language processing and generate a list of movies with descriptions that are most similar to the input.
 
-- [byb_project]: https://github.com/danlinW527/byb_project
+- byb_project[byb_project]: https://github.com/danlinW527/byb_project
 
   : A career tracker I created during my Bootcamp
 
-- [finalCapstone]: https://github.com/danlinW527/finalCapstone
+- finalCapstone[finalCapstone]: https://github.com/danlinW527/finalCapstone
 
-  : a python project to track shoe inventory. It allows you to manage information about shoes such as their country of origin, product code, product name, cost, and quantity.
+  : A python project to track shoe inventory. It allows you to manage information about shoes such as their country of origin, product code, product name, cost, and quantity.
 
 You can view the source code for these projects and more on my GitHub profile. I welcome your feedback and contributions.
 
