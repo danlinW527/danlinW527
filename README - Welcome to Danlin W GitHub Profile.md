@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hello, and welcome to my GitHub profile! My name is Danlin, and I'm a software engineering bootcamp student. I'm excited to learn more about software development and create innovative projects that solve real-world problems.
+Hello, and welcome to my GitHub profile! My name is Danlin, and I recently graduated from a software engineering bootcamp. I'm excited to learn more about software development and create innovative projects that solve real-world problems.
 
 ## About Me
 
@@ -19,11 +19,17 @@ Here are some of the repositories in my GitHub account:
   : This repository contains a Python project called watch_next, which recommends movies based on their similarity to a given movie description. The project uses the spacy library to perform advanced natural language processing and generate a list of movies with descriptions that are most similar to the input.
 
 
-- finalCapstone: https://github.com/danlinW527/finalCapstone
+- Hyperion Capstone 4 OOP: https://github.com/danlinW527/Hyperion-Capstone-4-OOP
 
   : A python project to track shoe inventory. It allows you to manage information about shoes such as their country of origin, product code, product name, cost, and quantity.
+  
+ - Hyperion Capstone 3 List Functions and String Handling: https://github.com/danlinW527/Hyperion-Capstone-3-Lists-Functions-and-String-Handling
+
+  : A python project to manage tasks. It allows you to manage information about users, tasks, generate reports and display statistics
 
 You can view the source code for these projects and more on my GitHub profile. I welcome your feedback and contributions.
+
+- Other tasks: You can find my other projects from the Repositoryies: https://github.com/danlinW527?tab=repositories
 
 ## How to Get in Touch
 
