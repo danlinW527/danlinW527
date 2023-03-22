@@ -27,7 +27,7 @@ Here are some of the repositories in my GitHub account:
 
   : A python project to manage tasks. It allows you to manage information about users, tasks, generate reports and display statistics
 
-- Other tasks: You can find my other projects from the Repositoryies: https://github.com/danlinW527?tab=repositories
+- Other tasks: You can find my other projects via Repositories: https://github.com/danlinW527?tab=repositories
 
 You can view the source code for these projects and more on my GitHub profile. I welcome your feedback and contributions.
 
